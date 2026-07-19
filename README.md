@@ -1,43 +1,47 @@
-# Experiment 1.1 - Contains Duplicate II (LeetCode #219)
+# 💻 CC_24BAI70021_Rittik-Basak
 
-## Problem
+## Competitive Coding-II Laboratory
 
-Given an integer array nums and an integer k, return true if there exist two distinct indices i and j such that:
-
-- nums[i] == nums[j]
-- abs(i-j) <= k
+This repository contains all Competitive Coding-II laboratory experiments implemented in **Python**.
 
 ---
 
-## Solutions
+## 📂 Experiments
 
-### 1. Brute Force
-
-Time Complexity: O(n²)
-
-Space Complexity: O(1)
-
----
-
-### 2. Optimized HashMap
-
-Time Complexity: O(n)
-
-Space Complexity: O(n)
+| Experiment | Problem | Status |
+|------------|---------|--------|
+| Exp 1.1.1 | Contains Duplicate II | ✅ |
+| Exp 1.1.2 | Product of Array Except Self | ✅ |
 
 ---
 
-### 3. Advanced Sliding Window
+## 🛠 Language
 
-Time Complexity: O(n)
-
-Space Complexity: O(k)
+- Python 3
 
 ---
 
-## Language
+## 📁 Repository Structure
 
-Python 3
+```
+CC_24BAI70021_Rittik-Basak/
+│
+├── EXP-1.1.1-Contains-Duplicate-II/
+├── EXP-1.1.2-Product-of-Array-Except-Self/
+├── Experiment_1.1.1_Problem_1.pdf
+├── Experiment_1.1.2_Problem_2.pdf
+└── README.md
+```
+
+---
+
+## 👨‍💻 Author
+
+**Rittik Basak**
+
+B.Tech CSE (Artificial Intelligence & Machine Learning)
+
+Chandigarh University
 
 ---
 
