@@ -45,6 +45,3 @@ Chandigarh University
 
 ---
 
-## Author
-
-Rittik Basak
