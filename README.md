@@ -28,8 +28,6 @@ CC_24BAI70021_Rittik-Basak/
 │
 ├── EXP-1.1.1-Contains-Duplicate-II/
 ├── EXP-1.1.2-Product-of-Array-Except-Self/
-├── Experiment_1.1.1_Problem_1.pdf
-├── Experiment_1.1.2_Problem_2.pdf
 └── README.md
 ```
 
