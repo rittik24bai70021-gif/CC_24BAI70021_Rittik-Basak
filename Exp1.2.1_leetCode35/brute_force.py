@@ -1,16 +1,13 @@
 def search_insert(nums, target):
-    # Traverse the array
+
     for i in range(len(nums)):
 
-        # If target is found
+    
         if nums[i] == target:
             return i
-
-        # If target should be inserted before nums[i]
         if nums[i] > target:
             return i
-
-    # If target is greater than all elements
+        
     return len(nums)
 
 
