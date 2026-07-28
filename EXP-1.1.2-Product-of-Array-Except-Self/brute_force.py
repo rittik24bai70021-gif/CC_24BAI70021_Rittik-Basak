@@ -21,3 +21,10 @@ nums = list(map(int, input("Enter array elements: ").split()))
 sol = Solution()
 
 print("Output:", sol.productExceptSelf(nums))
+
+
+
+
+
+
+
