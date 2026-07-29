@@ -15,6 +15,7 @@ This repository contains all Competitive Coding-II laboratory experiments implem
 | Exp 1.2.1 | Search Insert Position (LeetCode 35) | ✅ |
 | Exp 1.2.2 | Search in Rotated Sorted Array | ✅ |
 | Exp 1.3.1 | Queue Using Stack | ✅ |
+| Exp 1.3.2 | Largest Rectangle in Histogram | ✅ |
 
 ---
 
@@ -24,9 +25,9 @@ This repository contains all Competitive Coding-II laboratory experiments implem
 
 ---
 
-## 📁 Repository Structure
+## 📂 Repository Structure
 
-```
+```text
 CC_24BAI70021_Rittik-Basak/
 │
 ├── EXP-1.1.1-Contains-Duplicate-II/
@@ -34,6 +35,7 @@ CC_24BAI70021_Rittik-Basak/
 ├── Exp1.2.1_LeetCode35/
 ├── Exp1.2.2_Search_Rotated_Array/
 ├── Exp 1.3.1_queue_using_stack/
+├── Exp 1.3.2_Largest_Rectangle_Histogram/
 └── README.md
 ```
 
