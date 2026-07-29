@@ -21,8 +21,6 @@ class Solution:
 
         return answer
 
-
-# Driver Code
 nums = list(map(int, input("Enter array elements: ").split()))
 
 sol = Solution()
