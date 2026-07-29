@@ -16,7 +16,6 @@ This repository contains all Competitive Coding-II laboratory experiments implem
 | Exp 1.2.2 | Search in Rotated Sorted Array | ✅ |
 | Exp 1.3.1 | Queue Using Stack | ✅ |
 
-
 ---
 
 ## 🛠 Language
