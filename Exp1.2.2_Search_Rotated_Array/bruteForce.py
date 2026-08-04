@@ -1,7 +1,7 @@
 def search(nums, target):
  
     for i in range(len(nums)):
-        # Check if current element is the target
+    
         if nums[i] == target:
             return i
 

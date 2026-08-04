@@ -4,11 +4,9 @@ class Solution:
 
         answer = [1] * n
 
-        # Prefix Product
         for i in range(1, n):
             answer[i] = answer[i - 1] * nums[i - 1]
 
-        # Suffix Product
         right = 1
 
         for i in range(n - 1, -1, -1):
