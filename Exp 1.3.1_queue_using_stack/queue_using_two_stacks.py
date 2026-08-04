@@ -3,17 +3,13 @@ class MyQueue:
         self.input = []
         self.output = []
 
-    # Enqueue element
     def push(self, x):
         self.input.append(x)
-
-    # Transfer elements from input stack to output stack
     def transfer(self):
         if not self.output:
             while self.input:
                 self.output.append(self.input.pop())
 
-    # Dequeue element
     def pop(self):
         if self.empty():
             return "Queue is Empty"
@@ -21,7 +17,6 @@ class MyQueue:
         self.transfer()
         return self.output.pop()
 
-    # Get front element
     def peek(self):
         if self.empty():
             return "Queue is Empty"
@@ -29,7 +24,6 @@ class MyQueue:
         self.transfer()
         return self.output[-1]
 
-    # Check if queue is empty
     def empty(self):
         return len(self.input) == 0 and len(self.output) == 0
 
