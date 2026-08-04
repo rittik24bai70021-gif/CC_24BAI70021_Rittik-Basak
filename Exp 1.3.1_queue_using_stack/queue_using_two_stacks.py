@@ -24,7 +24,7 @@ class MyQueue:
         self.transfer()
         return self.output[-1]
 
-   
+    # Check if queue is empty
     def empty(self):
         return len(self.input) == 0 and len(self.output) == 0
 

@@ -11,8 +11,6 @@ def search_insert(nums, target):
 
         elif nums[mid] < target:
             left = mid + 1
-
-        # Search in the left half
         else:
             right = mid - 1
 
