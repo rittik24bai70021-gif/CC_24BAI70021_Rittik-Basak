@@ -17,6 +17,8 @@ This repository contains all Competitive Coding-II laboratory experiments implem
 | Exp 1.3.1 | Queue Using Stack | ✅ |
 | Exp 1.3.2 | Largest Rectangle in Histogram | ✅ |
 | Exp 1.4.1 | Palindrome Linked List | ✅ |
+| Exp 1.4.2 | Odd even linked list | ✅ |
+
 
 ---
 
@@ -44,6 +46,7 @@ CC_24BAI70021_Rittik-Basak/
 ├── Exp 1.3.1_queue_using_stack/
 ├── Exp 1.3.2_Largest_Rectangle_Histogram/
 ├── Exp 1.4.1_Palindrome_Linked_List/
+├── Exp 1.4.2_odd_even_linked_list/
 ├── Assignment-2/
 └── README.md
 ```
