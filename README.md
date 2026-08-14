@@ -26,7 +26,9 @@ This repository contains all Competitive Coding-II laboratory experiments implem
 
 | Assignment | Topics | Status |
 |------------|--------|--------|
+| Assignment-1 | Search in Roated Sorted Array  | ✅ |
 | Assignment-2 | Cycle Detection in Linked List | ✅ |
+
 
 ## 🛠 Language
 
@@ -47,6 +49,7 @@ CC_24BAI70021_Rittik-Basak/
 ├── Exp 1.3.2_Largest_Rectangle_Histogram/
 ├── Exp 1.4.1_Palindrome_Linked_List/
 ├── Exp 1.4.2_odd_even_linked_list/
+├── Assignment-1/
 ├── Assignment-2/
 └── README.md
 ```
