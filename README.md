@@ -18,6 +18,7 @@ This repository contains all Competitive Coding-II laboratory experiments implem
 | Exp 1.3.2 | Largest Rectangle in Histogram | ✅ |
 | Exp 1.4.1 | Palindrome Linked List | ✅ |
 | Exp 1.4.2 | Odd even linked list | ✅ |
+| Exp 2.2.1 | Subsets_problem | ✅ |
 
 
 ---
@@ -51,6 +52,7 @@ CC_24BAI70021_Rittik-Basak/
 ├── Exp 1.4.2_odd_even_linked_list/
 ├── Assignment-1/
 ├── Assignment-2/
+├── EXP-2.2.1_Subsets_problem/
 └── README.md
 ```
 
