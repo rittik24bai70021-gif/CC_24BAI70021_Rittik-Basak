@@ -26,10 +26,10 @@ This repository contains Competitive Coding-II laboratory experiments implemente
 | Exp 2.3.2 | Find the Duplicate Number | `brute_force.py`, `optimized.py` | ✅ Completed |
 | Exp 3.1.1 | Climbing Stairs | Python | ✅ Completed |
 | Exp 3.1.2 | Frog Jump with K Distance | Python | ✅ Completed |
-| Exp 3.2.1 | Coin Change | Python | 🟢 Added |
-| Exp 3.2.2 | Longest Common Subsequence | Python | 🟢 Added |
-| Exp 3.3.1 | Find if Path Exists in Graph | `brute_force.py`, `optimized.py` | 🟢 Added |
-| Exp 3.3.2 | Number of Islands (LeetCode 200) | `bruteforce.py`, `Optimized.py` | 🟢 Added |
+| Exp 3.2.1 | Coin Change | Python | ✅ Completed|
+| Exp 3.2.2 | Longest Common Subsequence | Python | ✅ Completed |
+| Exp 3.3.1 | Find if Path Exists in Graph | `brute_force.py`, `optimized.py` | ✅ Completed |
+| Exp 3.3.2 | Number of Islands (LeetCode 200) | `bruteforce.py`, `Optimized.py` | ✅ Completed |
 
 ---
 
